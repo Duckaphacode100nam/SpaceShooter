@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Playermovement.cs" />
+    <Compile Include="Assets\Playerhealth.cs" />
     <Compile Include="Assets\Scenes\Space Shooter Template FREE\Scripts\PlayerShooting.cs" />
     <Compile Include="Assets\EnemyHealth.cs" />
     <Compile Include="Assets\Scenes\Space Shooter Template FREE\Scripts\Enemy.cs" />
@@ -66,6 +67,7 @@
     <Compile Include="Assets\Scenes\Space Shooter Template FREE\Scripts\Wave.cs" />
     <Compile Include="Assets\Scenes\Space Shooter Template FREE\Scripts\LevelController.cs" />
     <Compile Include="Assets\Scenes\Space Shooter Template FREE\Scripts\Bonus.cs" />
+    <Compile Include="Assets\Health.cs" />
     <Compile Include="Assets\ShowLog.cs" />
     <Compile Include="Assets\Blinking.cs" />
   </ItemGroup>
