@@ -11,7 +11,7 @@ var playerHealth = collision.GetComponent<PlayerHealth>();
 if (playerHealth != null)
 {
 playerHealth.TakeDamage(damage);
-health.TakeDamage(1000);
+health.TakeDamage(1000đ);
 }
 }
 }
