@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scenes\Space Shooter Template FREE\Scripts\LevelController.cs" />
     <Compile Include="Assets\Scenes\Space Shooter Template FREE\Scripts\Bonus.cs" />
     <Compile Include="Assets\Health.cs" />
+    <Compile Include="Assets\Main menu.cs" />
     <Compile Include="Assets\EnemyAttack.cs" />
     <Compile Include="Assets\ShowLog.cs" />
     <Compile Include="Assets\Blinking.cs" />
